@@ -1,0 +1,21 @@
+    sources:
+      - ClimateCrisis.glyphs
+    buildOTF: False
+    axisOrder:
+      - YEAR
+      - wght
+      - wdth
+    familyName: Climate Crisis
+    stat:
+      ClimateCrisis[year].ttf:
+      - name: Year
+        tag: YEAR
+        values:
+        - name: 1979
+          value: 1979
+        - name: 1990
+          value: 1994
+        - name: 2000
+          value: 1992
+        - name: 2010
+          value: 2012
