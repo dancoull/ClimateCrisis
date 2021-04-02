@@ -5,5 +5,5 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
-Eino Korkala eino@einokorkala.com
-Daniel Coull hello@danielcoull.com
+Eino Korkala <eino@einokorkala.com>
+Daniel Coull <hello@danielcoull.com>
