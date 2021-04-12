@@ -1,5 +1,5 @@
 {
-.appVersion = "3075";
+.appVersion = "3058";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Adotbelow Agrave Amacron Aogonek A
 name = Uppercase;
 }
 );
-copyright = "Copyright © 2020 by Eino Korkala & Daniel Coull. All rights reserved.";
+copyright = "Copyright 2020 The Climate Crisis Project Authors (https://github.com/dancoull/ClimateCrisis)";
 customParameters = (
 {
 name = "Axis Mappings";
@@ -29,8 +29,16 @@ name = "Variable Font Origin";
 value = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
 },
 {
+name = "Use Typo Metrics";
+value = 1;
+},
+{
 name = license;
-value = "SIL Open Font License 1.1";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = Axes;
