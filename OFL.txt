@@ -1,4 +1,4 @@
-Copyright 2020 Eino Korkala & Daniel Coull for Helsingin Sanomat.
+Copyright 2021 The Climate Crisis Project Authors (https://github.com/dancoull/ClimateCrisis)
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
