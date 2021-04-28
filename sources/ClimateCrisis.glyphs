@@ -1,8 +1,5 @@
 {
 .appVersion = "3058";
-DisplayStrings = (
-"3+/approxequal"
-);
 classes = (
 {
 automatic = 1;
@@ -25942,6 +25939,34 @@ width = 670;
 unicode = 00BA;
 },
 {
+glyphname = Delta;
+layers = (
+{
+layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+width = 600;
+},
+{
+layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+width = 600;
+}
+);
+unicode = 0394;
+},
+{
+glyphname = Omega;
+layers = (
+{
+layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+width = 600;
+},
+{
+layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+width = 600;
+}
+);
+unicode = 03A9;
+},
+{
 color = 6;
 glyphname = mu;
 lastChange = "2021-04-27 11:38:13 +0000";
@@ -26046,6 +26071,20 @@ width = 823;
 leftKerningGroup = p;
 rightKerningGroup = u;
 unicode = 03BC;
+},
+{
+glyphname = pi;
+layers = (
+{
+layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+width = 600;
+},
+{
+layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+width = 600;
+}
+);
+unicode = 03C0;
 },
 {
 color = 6;
@@ -34198,6 +34237,166 @@ width = 600;
 unicode = 005E;
 },
 {
+glyphname = infinity;
+layers = (
+{
+layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+width = 600;
+},
+{
+layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+width = 600;
+}
+);
+unicode = 221E;
+},
+{
+glyphname = integral;
+layers = (
+{
+layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+width = 600;
+},
+{
+layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+width = 600;
+}
+);
+unicode = 222B;
+},
+{
+color = 6;
+glyphname = product;
+lastChange = "2021-04-28 13:22:29 +0000";
+layers = (
+{
+background = {
+components = (
+{
+name = H;
+transform = "{1, 0, 0, 1, -8, 0}";
+}
+);
+};
+layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 -120 LINE",
+"427 -120 LINE",
+"427 537 LINE",
+"567 537 LINE",
+"567 -120 LINE",
+"974 -120 LINE",
+"974 750 LINE",
+"20 750 LINE"
+);
+}
+);
+width = 994;
+},
+{
+background = {
+components = (
+{
+name = H;
+transform = "{1, 0, 0, 1, -30, 0}";
+}
+);
+};
+layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+paths = (
+{
+closed = 1;
+nodes = (
+"126 -4 LINE",
+"265 -4 LINE",
+"265 635 LINE",
+"680 635 LINE",
+"680 -4 LINE",
+"807 -4 LINE",
+"807 645 LINE",
+"126 645 LINE"
+);
+}
+);
+width = 941;
+}
+);
+leftMetricsKey = H;
+rightMetricsKey = H;
+unicode = 220F;
+},
+{
+glyphname = summation;
+layers = (
+{
+layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+width = 600;
+},
+{
+layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+width = 600;
+}
+);
+unicode = 2211;
+},
+{
+glyphname = radical;
+layers = (
+{
+layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+width = 600;
+},
+{
+layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+width = 600;
+}
+);
+unicode = 221A;
+},
+{
+color = 10;
+glyphname = micro;
+lastChange = "2021-04-28 12:50:24 +0000";
+layers = (
+{
+components = (
+{
+name = mu;
+}
+);
+layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+width = 838;
+},
+{
+components = (
+{
+name = mu;
+}
+);
+layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+width = 823;
+}
+);
+unicode = 00B5;
+},
+{
+glyphname = partialdiff;
+layers = (
+{
+layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+width = 600;
+},
+{
+layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+width = 600;
+}
+);
+unicode = 2202;
+},
+{
 color = 6;
 glyphname = percent;
 lastChange = "2021-04-02 09:45:05 +0000";
@@ -34504,6 +34703,65 @@ width = 1748;
 }
 );
 unicode = 2030;
+},
+{
+glyphname = lozenge;
+lastChange = "2021-04-28 13:35:40 +0000";
+layers = (
+{
+layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+paths = (
+{
+closed = 1;
+nodes = (
+"669 0 LINE",
+"894 375 LINE",
+"669 750 LINE",
+"245 750 LINE",
+"20 375 LINE",
+"245 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"377 375 LINE",
+"457 526 LINE",
+"537 375 LINE",
+"457 224 LINE"
+);
+}
+);
+width = 914;
+},
+{
+layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+paths = (
+{
+closed = 1;
+nodes = (
+"309 115 LINE",
+"511 380 LINE",
+"309 645 LINE",
+"295 645 LINE",
+"93 380 LINE",
+"295 115 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"113 380 LINE",
+"302 627 LINE",
+"490 380 LINE",
+"302 133 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 25CA;
 },
 {
 color = 6;
