@@ -1,7 +1,7 @@
 {
 .appVersion = "3058";
 DisplayStrings = (
-"/Ldot/ldot H·L/periodcentered.loclCAT"
+"/florin"
 );
 classes = (
 {
@@ -30828,6 +30828,31 @@ rightKerningGroup = quotesingle;
 unicode = 0027;
 },
 {
+glyphname = florin;
+lastChange = "2021-04-28 10:21:54 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{313, 0}";
+},
+{
+name = top;
+position = "{313, 750}";
+}
+);
+layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+width = 647;
+},
+{
+layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+width = 600;
+}
+);
+unicode = 0192;
+},
+{
 color = 6;
 glyphname = at;
 lastChange = "2021-04-27 09:59:58 +0000";
@@ -34063,6 +34088,104 @@ width = 1266;
 leftKerningGroup = percent;
 rightKerningGroup = percent;
 unicode = 0025;
+},
+{
+color = 3;
+glyphname = perthousand;
+lastChange = "2021-04-28 10:13:22 +0000";
+layers = (
+{
+components = (
+{
+name = percent;
+}
+);
+layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+paths = (
+{
+closed = 1;
+nodes = (
+"1770 -9 OFFCURVE",
+"1871 84 OFFCURVE",
+"1871 215 CURVE SMOOTH",
+"1871 333 OFFCURVE",
+"1787 440 OFFCURVE",
+"1569 440 CURVE SMOOTH",
+"1352 440 OFFCURVE",
+"1268 333 OFFCURVE",
+"1268 215 CURVE SMOOTH",
+"1268 84 OFFCURVE",
+"1369 -9 OFFCURVE",
+"1569 -9 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1515 162 OFFCURVE",
+"1488 185 OFFCURVE",
+"1488 214 CURVE SMOOTH",
+"1488 246 OFFCURVE",
+"1513 269 OFFCURVE",
+"1567 269 CURVE SMOOTH",
+"1623 269 OFFCURVE",
+"1651 246 OFFCURVE",
+"1651 215 CURVE SMOOTH",
+"1651 184 OFFCURVE",
+"1627 162 OFFCURVE",
+"1571 162 CURVE SMOOTH"
+);
+}
+);
+width = 1891;
+},
+{
+components = (
+{
+name = percent;
+}
+);
+layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+paths = (
+{
+closed = 1;
+nodes = (
+"1613 80 OFFCURVE",
+"1622 114 OFFCURVE",
+"1622 166 CURVE SMOOTH",
+"1622 270 OFFCURVE",
+"1577 358 OFFCURVE",
+"1429 358 CURVE SMOOTH",
+"1287 358 OFFCURVE",
+"1333 356 OFFCURVE",
+"1275 267 CURVE SMOOTH",
+"1199 150 OFFCURVE",
+"1124 80 OFFCURVE",
+"1429 80 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1316 101 OFFCURVE",
+"1214 184 OFFCURVE",
+"1282 266 CURVE SMOOTH",
+"1340 336 OFFCURVE",
+"1369 353 OFFCURVE",
+"1424 353 CURVE SMOOTH",
+"1494 353 OFFCURVE",
+"1582 333 OFFCURVE",
+"1582 245 CURVE SMOOTH",
+"1582 188 OFFCURVE",
+"1548 101 OFFCURVE",
+"1446 101 CURVE SMOOTH"
+);
+}
+);
+width = 1748;
+}
+);
+unicode = 2030;
 },
 {
 color = 6;
