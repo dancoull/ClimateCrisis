@@ -1,5 +1,8 @@
 {
 .appVersion = "3058";
+DisplayStrings = (
+"/Omega"
+);
 classes = (
 {
 automatic = 1;
@@ -26127,7 +26130,7 @@ unicode = 0394;
 {
 color = 6;
 glyphname = Omega;
-lastChange = "2021-04-28 15:55:39 +0000";
+lastChange = "2021-04-29 08:34:00 +0000";
 layers = (
 {
 background = {
@@ -26181,7 +26184,46 @@ width = 1120;
 },
 {
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"1028 237 OFFCURVE",
+"1110 319 OFFCURVE",
+"1110 481 CURVE SMOOTH",
+"1110 666 OFFCURVE",
+"859 785 OFFCURVE",
+"560 785 CURVE SMOOTH",
+"251 785 OFFCURVE",
+"10 668 OFFCURVE",
+"10 478 CURVE SMOOTH",
+"10 315 OFFCURVE",
+"112 237 OFFCURVE",
+"428 213 CURVE",
+"46 213 LINE",
+"46 0 LINE",
+"533 0 LINE",
+"533 284 LINE",
+"463 304 OFFCURVE",
+"435 327 OFFCURVE",
+"435 382 CURVE SMOOTH",
+"435 429 OFFCURVE",
+"467 474 OFFCURVE",
+"561 474 CURVE SMOOTH",
+"654 474 OFFCURVE",
+"685 427 OFFCURVE",
+"685 383 CURVE SMOOTH",
+"685 327 OFFCURVE",
+"656 304 OFFCURVE",
+"589 284 CURVE",
+"589 0 LINE",
+"1074 0 LINE",
+"1074 213 LINE",
+"692 213 LINE"
+);
+}
+);
+width = 1120;
 }
 );
 unicode = 03A9;
