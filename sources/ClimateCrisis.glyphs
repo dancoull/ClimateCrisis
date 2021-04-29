@@ -1,8 +1,5 @@
 {
 .appVersion = "3058";
-DisplayStrings = (
-"/Omega"
-);
 classes = (
 {
 automatic = 1;
