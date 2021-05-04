@@ -16693,7 +16693,7 @@ unicode = 0259;
 {
 color = 6;
 glyphname = f;
-lastChange = "2021-04-29 10:03:41 +0000";
+lastChange = "2021-05-04 07:42:36 +0000";
 layers = (
 {
 anchors = (
@@ -16799,7 +16799,9 @@ nodes = (
 "57 240 OFFCURVE",
 "56 240 CURVE SMOOTH",
 "-20 240 LINE",
-"57 440 LINE",
+"6 307 OFFCURVE",
+"31 373 OFFCURVE",
+"57 440 CURVE",
 "57 450 LINE SMOOTH",
 "57 650 OFFCURVE",
 "206 786 OFFCURVE",
