@@ -1,5 +1,8 @@
 {
 .appVersion = "3058";
+DisplayStrings = (
+"/Delta/Omega/pi/florin/notequal/greaterequal/lessequal/approxequal/infinity/integral/product/summation/radical µ/partialdiff/lozenge"
+);
 classes = (
 {
 automatic = 1;
@@ -35622,7 +35625,7 @@ unicode = 220F;
 {
 color = 9;
 glyphname = summation;
-lastChange = "2021-05-04 09:11:52 +0000";
+lastChange = "2021-05-04 11:42:20 +0000";
 layers = (
 {
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -35662,9 +35665,9 @@ paths = (
 closed = 1;
 nodes = (
 "155 1 OFFCURVE",
-"194 184 OFFCURVE",
-"349 343 CURVE",
-"169 505 OFFCURVE",
+"190 236 OFFCURVE",
+"384 343 CURVE",
+"160 469 OFFCURVE",
 "179 638 OFFCURVE",
 "330 638 CURVE SMOOTH",
 "449 638 LINE",
