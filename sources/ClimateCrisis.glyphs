@@ -1,8 +1,5 @@
 {
 .appVersion = "3058";
-DisplayStrings = (
-"H/pi HEF/product/summation H"
-);
 classes = (
 {
 automatic = 1;
@@ -2602,7 +2599,7 @@ unicode = 0110;
 {
 color = 6;
 glyphname = E;
-lastChange = "2021-04-27 11:16:29 +0000";
+lastChange = "2021-05-04 10:41:53 +0000";
 layers = (
 {
 anchors = (
@@ -2677,7 +2674,7 @@ nodes = (
 "144 115 CURVE",
 "811 115 LINE",
 "811 120 LINE",
-"529 120 LINE",
+"529 120 LINE SMOOTH",
 "339 120 OFFCURVE",
 "315 244 OFFCURVE",
 "315 294 CURVE SMOOTH",
@@ -26086,7 +26083,7 @@ unicode = 00BA;
 {
 color = 6;
 glyphname = Delta;
-lastChange = "2021-04-28 15:35:27 +0000";
+lastChange = "2021-05-04 10:23:40 +0000";
 layers = (
 {
 background = {
@@ -26173,7 +26170,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"347 125 OFFCURVE",
+"336 125 OFFCURVE",
 "308 231 OFFCURVE",
 "320 314 CURVE SMOOTH",
 "330 385 OFFCURVE",
@@ -26186,7 +26183,7 @@ nodes = (
 "793 455 OFFCURVE",
 "804 332 CURVE SMOOTH",
 "814 215 OFFCURVE",
-"740 125 OFFCURVE",
+"761 125 OFFCURVE",
 "671 125 CURVE SMOOTH",
 "395 125 LINE SMOOTH"
 );
@@ -26405,43 +26402,45 @@ rightKerningGroup = u;
 unicode = 03BC;
 },
 {
-color = 7;
+color = 9;
 glyphname = pi;
-lastChange = "2021-04-29 10:18:50 +0000";
+lastChange = "2021-05-04 10:52:34 +0000";
 layers = (
 {
-background = {
-components = (
-{
-name = H;
-transform = "{1, 0, 0, 1, -37, 0}";
-}
-);
-};
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
 paths = (
 {
 closed = 1;
 nodes = (
-"90 0 LINE",
-"437 0 LINE",
-"437 467 LINE",
-"90 467 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"504 0 LINE",
-"851 0 LINE",
-"851 467 LINE",
-"504 467 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "10 410 LINE",
+"90 410 LINE SMOOTH",
+"90 410 OFFCURVE",
+"90 293 OFFCURVE",
+"90 234 CURVE SMOOTH",
+"90 156 OFFCURVE",
+"90 78 OFFCURVE",
+"90 0 CURVE",
+"437 0 LINE",
+"437 78 OFFCURVE",
+"437 156 OFFCURVE",
+"437 234 CURVE SMOOTH",
+"437 293 OFFCURVE",
+"437 410 OFFCURVE",
+"437 410 CURVE SMOOTH",
+"504 410 LINE SMOOTH",
+"504 410 OFFCURVE",
+"504 293 OFFCURVE",
+"504 234 CURVE SMOOTH",
+"504 156 OFFCURVE",
+"504 78 OFFCURVE",
+"504 0 CURVE",
+"851 0 LINE",
+"851 78 OFFCURVE",
+"851 156 OFFCURVE",
+"851 234 CURVE SMOOTH",
+"851 293 OFFCURVE",
+"851 410 OFFCURVE",
+"851 410 CURVE SMOOTH",
 "931 410 LINE",
 "931 620 LINE",
 "10 620 LINE"
@@ -26452,6 +26451,51 @@ width = 941;
 },
 {
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+paths = (
+{
+closed = 1;
+nodes = (
+"103 500 LINE",
+"143 500 LINE SMOOTH",
+"222 500 OFFCURVE",
+"240 467 OFFCURVE",
+"240 391 CURVE SMOOTH",
+"240 328 OFFCURVE",
+"201 195 OFFCURVE",
+"213 115 CURVE",
+"339 115 LINE",
+"316 195 OFFCURVE",
+"301 250 OFFCURVE",
+"301 332 CURVE SMOOTH",
+"301 409 OFFCURVE",
+"339 500 OFFCURVE",
+"446 500 CURVE SMOOTH",
+"467 500 LINE SMOOTH",
+"570 500 OFFCURVE",
+"603 407 OFFCURVE",
+"603 321 CURVE SMOOTH",
+"603 229 OFFCURVE",
+"588 163 OFFCURVE",
+"561 115 CURVE",
+"700 115 LINE",
+"687 163 OFFCURVE",
+"669 260 OFFCURVE",
+"669 349 CURVE SMOOTH",
+"669 407 OFFCURVE",
+"674 500 OFFCURVE",
+"747 500 CURVE SMOOTH",
+"800 500 LINE",
+"800 505 LINE",
+"103 505 LINE"
+);
+}
+);
+width = 903;
+},
+{
+associatedMasterId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+layerId = "E643C6EC-B87B-47B3-AA9F-F321A9DD2469";
+name = "04 May 21, 12:25";
 paths = (
 {
 closed = 1;
@@ -26482,6 +26526,49 @@ nodes = (
 }
 );
 width = 600;
+},
+{
+associatedMasterId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+background = {
+components = (
+{
+name = H;
+transform = "{1, 0, 0, 1, -37, 0}";
+}
+);
+};
+layerId = "B6F59BAD-626A-4984-976E-BCB947D5B402";
+name = "04 May 21, 12:25";
+paths = (
+{
+closed = 1;
+nodes = (
+"90 0 LINE",
+"437 0 LINE",
+"437 467 LINE",
+"90 467 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"504 0 LINE",
+"851 0 LINE",
+"851 467 LINE",
+"504 467 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"10 410 LINE",
+"931 410 LINE",
+"931 620 LINE",
+"10 620 LINE"
+);
+}
+);
+width = 941;
 }
 );
 unicode = 03C0;
@@ -35424,9 +35511,9 @@ width = 540;
 unicode = 222B;
 },
 {
-color = 7;
+color = 9;
 glyphname = product;
-lastChange = "2021-05-04 09:22:26 +0000";
+lastChange = "2021-05-04 10:22:45 +0000";
 layers = (
 {
 background = {
