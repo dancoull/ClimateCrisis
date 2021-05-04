@@ -35544,9 +35544,9 @@ width = 540;
 unicode = 222B;
 },
 {
-color = 7;
+color = 6;
 glyphname = product;
-lastChange = "2021-05-04 22:52:16 +0000";
+lastChange = "2021-05-04 23:01:31 +0000";
 layers = (
 {
 background = {
@@ -35690,9 +35690,9 @@ rightMetricsKey = H;
 unicode = 220F;
 },
 {
-color = 7;
+color = 6;
 glyphname = summation;
-lastChange = "2021-05-04 23:00:50 +0000";
+lastChange = "2021-05-04 23:01:22 +0000";
 layers = (
 {
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
