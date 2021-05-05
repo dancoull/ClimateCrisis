@@ -1,8 +1,5 @@
 {
 .appVersion = "3058";
-DisplayStrings = (
-"/Delta/Omega/pi/florin/notequal/greaterequal/lessequal/approxequal/infinity/integral/product/summation/radical µ/partialdiff/lozenge"
-);
 classes = (
 {
 automatic = 1;
@@ -17,6 +14,12 @@ name = "Axis Mappings";
 value = {
 YEAR = {
 1979 = 1979;
+1990 = 1994;
+2000 = 1992;
+2010 = 2012;
+2019 = 2019;
+2030 = 2028;
+2040 = 2040;
 2050 = 2050;
 };
 wdth = {
@@ -28,12 +31,12 @@ wght = {
 };
 },
 {
-name = "Variable Font Origin";
-value = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
-},
-{
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Variable Font Origin";
+value = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
 },
 {
 name = license;
@@ -51,10 +54,12 @@ Name = Year;
 Tag = YEAR;
 },
 {
+Hidden = 1;
 Name = Weight;
 Tag = wght;
 },
 {
+Hidden = 1;
 Name = Width;
 Tag = wdth;
 }
@@ -139,12 +144,24 @@ ascender = 750;
 capHeight = 750;
 customParameters = (
 {
+name = hheaAscender;
+value = 1310;
+},
+{
+name = hheaDescender;
+value = -320;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = typoAscender;
 value = 1310;
 },
 {
 name = typoDescender;
-value = -330;
+value = -320;
 },
 {
 name = typoLineGap;
@@ -156,19 +173,7 @@ value = 1310;
 },
 {
 name = winDescent;
-value = 330;
-},
-{
-name = hheaAscender;
-value = 1310;
-},
-{
-name = hheaDescender;
-value = -330;
-},
-{
-name = hheaLineGap;
-value = 0;
+value = 320;
 }
 );
 descender = -120;
@@ -222,7 +227,7 @@ value = 1310;
 },
 {
 name = hheaDescender;
-value = -330;
+value = -320;
 },
 {
 name = hheaLineGap;
@@ -234,7 +239,7 @@ value = 1310;
 },
 {
 name = typoDescender;
-value = -330;
+value = -320;
 },
 {
 name = typoLineGap;
@@ -246,7 +251,7 @@ value = 1310;
 },
 {
 name = winDescent;
-value = 330;
+value = 320;
 }
 );
 descender = -120;
@@ -6404,7 +6409,7 @@ unicode = 0145;
 {
 color = 6;
 glyphname = Nhookleft;
-lastChange = "2021-04-02 09:45:05 +0000";
+lastChange = "2021-05-05 16:46:41 +0000";
 layers = (
 {
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -6412,10 +6417,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"282 -341 OFFCURVE",
-"430 -208 OFFCURVE",
-"430 41 CURVE SMOOTH",
-"430 117 OFFCURVE",
+"282 -248 OFFCURVE",
+"430 -126 OFFCURVE",
+"430 93 CURVE SMOOTH",
+"430 169 OFFCURVE",
 "430 233 OFFCURVE",
 "430 350 CURVE",
 "430 351 OFFCURVE",
@@ -6434,12 +6439,12 @@ nodes = (
 "493 750 LINE",
 "20 750 LINE",
 "20 500 OFFCURVE",
-"20 250 OFFCURVE",
-"20 27 CURVE SMOOTH",
-"20 -49 OFFCURVE",
-"-25 -76 OFFCURVE",
-"-111 -58 CURVE",
-"-37 -319 LINE"
+"20 302 OFFCURVE",
+"20 69 CURVE SMOOTH",
+"20 -6 OFFCURVE",
+"-25 -24 OFFCURVE",
+"-111 -6 CURVE",
+"-58 -228 LINE"
 );
 }
 );
@@ -6569,25 +6574,18 @@ unicode = 00D1;
 {
 color = 6;
 glyphname = Eng;
-lastChange = "2021-04-02 09:45:05 +0000";
+lastChange = "2021-05-05 16:46:32 +0000";
 layers = (
 {
-background = {
-components = (
-{
-name = N;
-}
-);
-};
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
 paths = (
 {
 closed = 1;
 nodes = (
-"757 -339 OFFCURVE",
-"1036 -283 OFFCURVE",
-"1037 34 CURVE SMOOTH",
-"1037 250 OFFCURVE",
+"769 -258 OFFCURVE",
+"1037 -205 OFFCURVE",
+"1037 44 CURVE SMOOTH",
+"1037 260 OFFCURVE",
 "1037 500 OFFCURVE",
 "1037 750 CURVE",
 "627 750 LINE",
@@ -6607,11 +6605,11 @@ nodes = (
 "430 351 OFFCURVE",
 "432 351 OFFCURVE",
 "432 350 CURVE SMOOTH",
-"563 13 LINE",
-"563 -45 OFFCURVE",
-"522 -64 OFFCURVE",
-"419 -46 CURVE",
-"479 -308 LINE"
+"564 33 LINE",
+"564 -15 OFFCURVE",
+"525 -24 OFFCURVE",
+"449 -6 CURVE",
+"503 -228 LINE"
 );
 }
 );
@@ -18262,7 +18260,7 @@ unicode = 1ECB;
 {
 color = 10;
 glyphname = igrave;
-lastChange = "2021-05-05 15:05:41 +0000";
+lastChange = "2021-05-05 16:14:54 +0000";
 layers = (
 {
 components = (
@@ -40424,8 +40422,8 @@ ordfeminine = {
 };
 };
 };
-manufacturer = "Eino Korkala & Daniel Coull";
-manufacturerURL = "https://www.danielcoull.com";
+manufacturer = "Daniel Coull";
+manufacturerURL = "http://www.danielcoull.com";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
