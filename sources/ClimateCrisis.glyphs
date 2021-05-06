@@ -39760,14 +39760,6 @@ instanceInterpolations = {
 "96858A69-C8A6-410B-90BB-94EA0DA45935" = 1;
 };
 name = Regular;
-},
-{
-interpolationWeight = 1979;
-interpolationWidth = 0;
-instanceInterpolations = {
-"F6D8640C-383C-48A8-B63C-DDE9F10207CE" = 1;
-};
-name = Regular;
 }
 );
 kerning = {
