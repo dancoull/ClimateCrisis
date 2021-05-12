@@ -209,6 +209,7 @@ verticalStems = (
 346,
 415
 );
+visible = 1;
 weightValue = 1979;
 widthValue = 0;
 xHeight = 620;
@@ -5670,7 +5671,7 @@ unicode = 0136;
 {
 color = 6;
 glyphname = L;
-lastChange = "2021-04-27 11:18:44 +0000";
+lastChange = "2021-05-12 15:08:23 +0000";
 layers = (
 {
 anchors = (
@@ -5688,16 +5689,9 @@ position = "{182, 750}";
 },
 {
 name = topright;
-position = "{819, 750}";
+position = "{477, 620}";
 }
 );
-background = {
-components = (
-{
-name = O;
-}
-);
-};
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
 paths = (
 {
@@ -5737,17 +5731,9 @@ position = "{259, 750}";
 },
 {
 name = topright;
-position = "{757, 750}";
+position = "{530, 620}";
 }
 );
-background = {
-components = (
-{
-name = O;
-transform = "{1, 0, 0, 1, 41, 0}";
-}
-);
-};
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
 paths = (
 {
@@ -5815,17 +5801,16 @@ unicode = 0139;
 {
 color = 10;
 glyphname = Lcaron;
-lastChange = "2021-05-12 14:28:06 +0000";
+lastChange = "2021-05-12 15:12:53 +0000";
 layers = (
 {
 components = (
 {
-alignment = -1;
 name = L;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 480, -147}";
+transform = "{1, 0, 0, 1, 480, 0}";
 }
 );
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -5834,12 +5819,11 @@ width = 837;
 {
 components = (
 {
-alignment = -1;
 name = L;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 530, -167}";
+transform = "{1, 0, 0, 1, 530, 0}";
 }
 );
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
@@ -5865,6 +5849,7 @@ nodes = (
 );
 }
 );
+visible = 1;
 width = 839;
 },
 {
@@ -15700,7 +15685,7 @@ unicode = 010B;
 {
 color = 6;
 glyphname = d;
-lastChange = "2021-04-02 09:45:05 +0000";
+lastChange = "2021-05-12 15:12:35 +0000";
 layers = (
 {
 anchors = (
@@ -15718,7 +15703,7 @@ position = "{479, 750}";
 },
 {
 name = topright;
-position = "{934, 620}";
+position = "{924, 620}";
 }
 );
 background = {
@@ -15791,7 +15776,7 @@ position = "{477, 750}";
 },
 {
 name = topright;
-position = "{942, 620}";
+position = "{966, 620}";
 }
 );
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
@@ -16018,35 +16003,33 @@ unicode = 00F0;
 {
 color = 10;
 glyphname = dcaron;
-lastChange = "2021-05-12 14:28:23 +0000";
+lastChange = "2021-05-12 15:12:53 +0000";
 layers = (
 {
 components = (
 {
-alignment = -1;
 name = d;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 928, -147}";
+transform = "{1, 0, 0, 1, 927, 0}";
 }
 );
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
-width = 1245;
+width = 954;
 },
 {
 components = (
 {
-alignment = -1;
 name = d;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 964, -167}";
+transform = "{1, 0, 0, 1, 966, 0}";
 }
 );
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
-width = 1209;
+width = 972;
 },
 {
 associatedMasterId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -16068,7 +16051,6 @@ nodes = (
 );
 }
 );
-visible = 1;
 width = 1244;
 },
 {
@@ -16091,7 +16073,6 @@ nodes = (
 );
 }
 );
-visible = 1;
 width = 1209;
 }
 );
@@ -19699,7 +19680,7 @@ unicode = 0138;
 {
 color = 6;
 glyphname = l;
-lastChange = "2021-04-27 11:29:04 +0000";
+lastChange = "2021-05-12 15:09:14 +0000";
 layers = (
 {
 anchors = (
@@ -19717,7 +19698,7 @@ position = "{190, 750}";
 },
 {
 name = topright;
-position = "{360, 750}";
+position = "{350, 620}";
 }
 );
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -19754,7 +19735,7 @@ position = "{176, 750}";
 },
 {
 name = topright;
-position = "{353, 750}";
+position = "{364, 620}";
 }
 );
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
@@ -19820,35 +19801,33 @@ unicode = 013A;
 {
 color = 10;
 glyphname = lcaron;
-lastChange = "2021-05-12 14:28:41 +0000";
+lastChange = "2021-05-12 15:12:53 +0000";
 layers = (
 {
 components = (
 {
-alignment = -1;
 name = l;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 352, -147}";
+transform = "{1, 0, 0, 1, 353, 0}";
 }
 );
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
-width = 669;
+width = 380;
 },
 {
 components = (
 {
-alignment = -1;
 name = l;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 391, -167}";
+transform = "{1, 0, 0, 1, 364, 0}";
 }
 );
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
-width = 626;
+width = 366;
 },
 {
 associatedMasterId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -19870,7 +19849,6 @@ nodes = (
 );
 }
 );
-visible = 1;
 width = 669;
 },
 {
@@ -19893,7 +19871,6 @@ nodes = (
 );
 }
 );
-visible = 1;
 width = 626;
 }
 );
@@ -23214,7 +23191,7 @@ unicode = 017F;
 {
 color = 6;
 glyphname = t;
-lastChange = "2021-04-29 08:55:36 +0000";
+lastChange = "2021-05-12 15:09:33 +0000";
 layers = (
 {
 anchors = (
@@ -23232,7 +23209,7 @@ position = "{324, 620}";
 },
 {
 name = topright;
-position = "{627, 620}";
+position = "{351, 786}";
 }
 );
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -23292,7 +23269,7 @@ position = "{318, 620}";
 },
 {
 name = topright;
-position = "{636, 620}";
+position = "{423, 742}";
 }
 );
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
@@ -23609,17 +23586,16 @@ unicode = 0167;
 {
 color = 10;
 glyphname = tcaron;
-lastChange = "2021-05-12 14:28:52 +0000";
+lastChange = "2021-05-12 15:12:53 +0000";
 layers = (
 {
 components = (
 {
-alignment = -1;
 name = t;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 354, 20}";
+transform = "{1, 0, 0, 1, 354, 166}";
 }
 );
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -23628,12 +23604,11 @@ width = 649;
 {
 components = (
 {
-alignment = -1;
 name = t;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 429, -27}";
+transform = "{1, 0, 0, 1, 423, 122}";
 }
 );
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
@@ -23681,7 +23656,6 @@ nodes = (
 );
 }
 );
-visible = 1;
 width = 636;
 }
 );
@@ -39265,9 +39239,15 @@ unicode = 030B;
 {
 color = 6;
 glyphname = caroncomb.alt;
-lastChange = "2021-05-12 14:27:44 +0000";
+lastChange = "2021-05-12 15:12:06 +0000";
 layers = (
 {
+anchors = (
+{
+name = _topright;
+position = "{-3, 620}";
+}
+);
 guideLines = (
 {
 position = "{626, 897}";
@@ -39278,20 +39258,26 @@ paths = (
 {
 closed = 1;
 nodes = (
-"311 897 LINE",
-"67 897 LINE",
-"40 632 LINE",
-"233 632 LINE"
+"311 750 LINE",
+"67 750 LINE",
+"40 485 LINE",
+"233 485 LINE"
 );
 }
 );
 width = 351;
 },
 {
+anchors = (
+{
+name = _topright;
+position = "{0, 620}";
+}
+);
 guideLines = (
 {
 angle = 180;
-position = "{345, 812}";
+position = "{353, 812}";
 }
 );
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
@@ -39299,10 +39285,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"120 812 LINE",
-"54 812 LINE",
-"40 711 LINE",
-"97 711 LINE"
+"120 645 LINE",
+"54 645 LINE",
+"40 544 LINE",
+"97 544 LINE"
 );
 }
 );
