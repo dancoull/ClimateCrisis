@@ -1,7 +1,7 @@
 {
 .appVersion = "3058";
 DisplayStrings = (
-"/amacron/macroncomb.narrow l/imacron l"
+"/amacron/dieresiscomb.narrow lïl/macroncomb.narrow l/imacron l\012l·l"
 );
 classes = (
 {
@@ -93,7 +93,7 @@ name = ccmp;
 },
 {
 automatic = 1;
-code = "lookup locl_latn_0 {\012	script latn;\012	language AZE;\012	sub i by idotaccent;\012	language CRT;\012	sub i by idotaccent;\012	language KAZ;\012	sub i by idotaccent;\012	language TAT;\012	sub i by idotaccent;\012	language TRK;\012	sub i by idotaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_1;\012\012lookup locl_latn_2 {\012	script latn;\012	language CAT;\012	sub l periodcentered' l by periodcentered.loclCAT;\012	sub L periodcentered' L by periodcentered.loclCAT;\012} locl_latn_2;\012\012lookup locl_latn_3 {\012	script latn;\012	language NLD;\012	sub iacute j' by jacute;\012	sub Iacute J' by Jacute;\012} locl_latn_3;\012";
+code = "lookup locl_latn_0 {\012	script latn;\012	language AZE;\012	sub i by idotaccent;\012	language CRT;\012	sub i by idotaccent;\012	language KAZ;\012	sub i by idotaccent;\012	language TAT;\012	sub i by idotaccent;\012	language TRK;\012	sub i by idotaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_1;\012\012lookup locl_latn_2 {\012	script latn;\012	language CAT;\012	sub l periodcentered' l by periodcentered.loclCAT;\012	sub L periodcentered' L by periodcentered.loclCAT.case;\012} locl_latn_2;\012\012lookup locl_latn_3 {\012	script latn;\012	language NLD;\012	sub iacute j' by jacute;\012	sub Iacute J' by Jacute;\012} locl_latn_3;\012";
 name = locl;
 },
 {
@@ -5673,7 +5673,7 @@ unicode = 0136;
 {
 color = 6;
 glyphname = L;
-lastChange = "2021-05-12 15:08:23 +0000";
+lastChange = "2021-05-13 08:30:24 +0000";
 layers = (
 {
 anchors = (
@@ -5921,7 +5921,7 @@ unicode = 013B;
 {
 color = 3;
 glyphname = Ldot;
-lastChange = "2021-04-28 10:00:05 +0000";
+lastChange = "2021-05-13 08:53:33 +0000";
 layers = (
 {
 components = (
@@ -5934,10 +5934,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"784 384 LINE",
-"784 608 LINE",
-"513 608 LINE",
-"513 384 LINE"
+"788 354 LINE",
+"788 578 LINE",
+"517 578 LINE",
+"517 354 LINE"
 );
 }
 );
@@ -18882,7 +18882,7 @@ unicode = 0133;
 {
 color = 10;
 glyphname = imacron;
-lastChange = "2021-05-13 08:16:06 +0000";
+lastChange = "2021-05-13 08:20:30 +0000";
 layers = (
 {
 components = (
@@ -18891,7 +18891,7 @@ name = idotless;
 },
 {
 name = macroncomb.narrow;
-transform = "{1, 0, 0, 1, -43, 0}";
+transform = "{1, 0, 0, 1, -35, 0}";
 }
 );
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -31548,7 +31548,7 @@ unicode = 005C;
 {
 color = 6;
 glyphname = periodcentered.loclCAT;
-lastChange = "2021-04-28 10:02:33 +0000";
+lastChange = "2021-05-13 09:00:06 +0000";
 layers = (
 {
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -31556,14 +31556,51 @@ paths = (
 {
 closed = 1;
 nodes = (
-"48 380 LINE",
-"48 604 LINE",
-"-223 604 LINE",
-"-223 380 LINE"
+"291 331 LINE",
+"291 555 LINE",
+"20 555 LINE",
+"20 331 LINE"
 );
 }
 );
-width = 205;
+width = 311;
+},
+{
+layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
+paths = (
+{
+closed = 1;
+nodes = (
+"15 469 LINE",
+"15 520 LINE",
+"-74 520 LINE",
+"-74 469 LINE"
+);
+}
+);
+width = 305;
+}
+);
+},
+{
+color = 6;
+glyphname = periodcentered.loclCAT.case;
+lastChange = "2021-05-13 09:01:05 +0000";
+layers = (
+{
+layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+paths = (
+{
+closed = 1;
+nodes = (
+"-32 390 LINE",
+"-32 614 LINE",
+"-303 614 LINE",
+"-303 390 LINE"
+);
+}
+);
+width = 5;
 },
 {
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
@@ -42067,7 +42104,7 @@ width = 472;
 {
 color = 6;
 glyphname = dieresiscomb.narrow;
-lastChange = "2021-05-13 08:14:34 +0000";
+lastChange = "2021-05-13 08:21:47 +0000";
 layers = (
 {
 anchors = (
@@ -42093,27 +42130,27 @@ nodes = (
 "224 854 OFFCURVE",
 "224 854 OFFCURVE",
 "223 854 CURVE SMOOTH",
-"41 854 LINE SMOOTH",
-"40 854 OFFCURVE",
-"40 854 OFFCURVE",
-"40 853 CURVE SMOOTH",
-"40 693 LINE SMOOTH",
-"40 692 OFFCURVE",
-"40 692 OFFCURVE",
-"41 692 CURVE SMOOTH"
+"44 854 LINE SMOOTH",
+"43 854 OFFCURVE",
+"43 854 OFFCURVE",
+"43 853 CURVE SMOOTH",
+"43 693 LINE SMOOTH",
+"43 692 OFFCURVE",
+"43 692 OFFCURVE",
+"44 692 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"431 692 LINE SMOOTH",
-"432 692 OFFCURVE",
-"432 692 OFFCURVE",
-"432 693 CURVE SMOOTH",
-"432 853 LINE SMOOTH",
-"432 854 OFFCURVE",
-"432 854 OFFCURVE",
-"431 854 CURVE SMOOTH",
+"428 692 LINE SMOOTH",
+"429 692 OFFCURVE",
+"429 692 OFFCURVE",
+"429 693 CURVE SMOOTH",
+"429 853 LINE SMOOTH",
+"429 854 OFFCURVE",
+"429 854 OFFCURVE",
+"428 854 CURVE SMOOTH",
 "249 854 LINE SMOOTH",
 "248 854 OFFCURVE",
 "248 854 OFFCURVE",
@@ -42190,17 +42227,17 @@ width = 506;
 {
 color = 6;
 glyphname = macroncomb.narrow;
-lastChange = "2021-05-13 08:16:12 +0000";
+lastChange = "2021-05-13 08:21:28 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{236, 620}";
+position = "{228, 620}";
 },
 {
 name = top;
-position = "{236, 827}";
+position = "{228, 827}";
 }
 );
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -42208,14 +42245,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"431 708 LINE",
-"431 865 LINE",
-"41 865 LINE",
-"41 708 LINE"
+"418 708 LINE",
+"418 865 LINE",
+"38 865 LINE",
+"38 708 LINE"
 );
 }
 );
-width = 472;
+width = 456;
 },
 {
 anchors = (
@@ -42655,7 +42692,6 @@ Q = -80;
 "@MMK_R_h" = 0;
 "@MMK_R_o" = 0;
 "@MMK_R_y" = 0;
-periodcentered.loclCAT = 270;
 };
 "@MMK_L_lcaron" = {
 "@MMK_R_a" = -80;
@@ -42946,7 +42982,7 @@ onehalf = 0;
 "@MMK_R_o" = -40;
 };
 "@MMK_L_l" = {
-periodcentered.loclCAT = 160;
+periodcentered.loclCAT.case = 160;
 };
 "@MMK_L_n" = {
 "@MMK_R_v" = -20;
