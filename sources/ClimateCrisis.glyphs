@@ -53692,7 +53692,7 @@ unicode = 0303;
 {
 color = 6;
 glyphname = macroncomb;
-lastChange = "2021-05-12 14:22:35 +0000";
+lastChange = "2021-05-17 15:46:20 +0000";
 layers = (
 {
 anchors = (
@@ -53735,10 +53735,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"358 750 LINE",
-"358 764 LINE",
-"40 764 LINE",
-"40 750 LINE"
+"358 754 LINE",
+"358 760 LINE",
+"40 760 LINE",
+"40 754 LINE"
 );
 }
 );
@@ -55627,7 +55627,7 @@ width = 642;
 {
 color = 6;
 glyphname = macroncomb.case;
-lastChange = "2021-05-12 14:23:17 +0000";
+lastChange = "2021-05-17 15:46:16 +0000";
 layers = (
 {
 anchors = (
@@ -55670,10 +55670,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"358 884 LINE",
-"358 898 LINE",
-"40 898 LINE",
-"40 884 LINE"
+"358 888 LINE",
+"358 894 LINE",
+"40 894 LINE",
+"40 888 LINE"
 );
 }
 );
@@ -56391,7 +56391,7 @@ width = 642;
 {
 color = 6;
 glyphname = macroncomb.narrow;
-lastChange = "2021-05-13 09:34:58 +0000";
+lastChange = "2021-05-17 15:45:51 +0000";
 layers = (
 {
 anchors = (
@@ -56434,10 +56434,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"323 750 LINE",
-"323 764 LINE",
-"75 764 LINE",
-"75 750 LINE"
+"323 754 LINE",
+"323 760 LINE",
+"75 760 LINE",
+"75 754 LINE"
 );
 }
 );
