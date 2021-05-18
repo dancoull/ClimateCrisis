@@ -1,9 +1,5 @@
 {
 .appVersion = "3058";
-DisplayStrings = (
-"Co/numero HnoHºH",
-"º"
-);
 classes = (
 {
 automatic = 1;
