@@ -45890,7 +45890,7 @@ unicode = 0192;
 {
 color = 6;
 glyphname = at;
-lastChange = "2021-05-24 15:04:55 +0000";
+lastChange = "2021-05-24 15:10:51 +0000";
 layers = (
 {
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
@@ -46199,9 +46199,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"690 51 LINE",
-"649 35 OFFCURVE",
-"610 32 OFFCURVE",
+"690 50 LINE",
+"654 36 OFFCURVE",
+"615 32 OFFCURVE",
 "573 32 CURVE SMOOTH",
 "372 32 OFFCURVE",
 "239 131 OFFCURVE",
