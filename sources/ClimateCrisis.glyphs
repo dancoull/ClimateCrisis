@@ -1452,19 +1452,9 @@ unicode = 0100;
 {
 color = 6;
 glyphname = Aogonek;
-lastChange = "2021-05-15 11:57:49 +0000";
+lastChange = "2021-05-25 11:06:16 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{577, 0}";
-},
-{
-name = top;
-position = "{577, 750}";
-}
-);
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
 paths = (
 {
@@ -1534,16 +1524,6 @@ nodes = (
 width = 1172;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{586, 0}";
-},
-{
-name = top;
-position = "{584, 750}";
-}
-);
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
 name = Regular;
 paths = (
@@ -4389,23 +4369,9 @@ unicode = 0112;
 {
 color = 6;
 glyphname = Eogonek;
-lastChange = "2021-05-15 13:04:16 +0000";
+lastChange = "2021-05-25 11:06:36 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{482, 0}";
-},
-{
-name = top;
-position = "{482, 750}";
-},
-{
-name = topleft;
-position = "{52, 750}";
-}
-);
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
 paths = (
 {
@@ -4465,20 +4431,6 @@ nodes = (
 width = 871;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{440, 0}";
-},
-{
-name = top;
-position = "{440, 750}";
-},
-{
-name = topleft;
-position = "{20, 750}";
-}
-);
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
 name = Regular;
 paths = (
@@ -6714,23 +6666,9 @@ unicode = 012A;
 {
 color = 6;
 glyphname = Iogonek;
-lastChange = "2021-05-18 09:36:56 +0000";
+lastChange = "2021-05-25 11:10:02 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{247, 112}";
-},
-{
-name = top;
-position = "{247, 750}";
-},
-{
-name = topleft;
-position = "{35, 750}";
-}
-);
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
 paths = (
 {
@@ -6774,20 +6712,6 @@ nodes = (
 width = 442;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{228, 0}";
-},
-{
-name = top;
-position = "{218, 750}";
-},
-{
-name = topleft;
-position = "{20, 750}";
-}
-);
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
 name = Regular;
 paths = (
@@ -10297,31 +10221,9 @@ unicode = 014C;
 {
 color = 6;
 glyphname = Oogonek;
-lastChange = "2021-05-15 14:08:54 +0000";
+lastChange = "2021-05-25 11:08:14 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{544, 0}";
-},
-{
-name = center;
-position = "{544, 375}";
-},
-{
-name = top;
-position = "{579, 750}";
-},
-{
-name = topleft;
-position = "{39, 750}";
-},
-{
-name = topright;
-position = "{1119, 750}";
-}
-);
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
 paths = (
 {
@@ -10382,28 +10284,6 @@ nodes = (
 width = 1120;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{560, 0}";
-},
-{
-name = center;
-position = "{560, 375}";
-},
-{
-name = top;
-position = "{560, 750}";
-},
-{
-name = topleft;
-position = "{20, 750}";
-},
-{
-name = topright;
-position = "{1100, 750}";
-}
-);
 background = {
 components = (
 {
@@ -10757,7 +10637,7 @@ unicode = 00D5;
 {
 color = 6;
 glyphname = OE;
-lastChange = "2021-05-15 14:09:44 +0000";
+lastChange = "2021-05-25 10:47:28 +0000";
 layers = (
 {
 anchors = (
@@ -11258,7 +11138,7 @@ unicode = 0050;
 {
 color = 6;
 glyphname = Thorn;
-lastChange = "2021-05-17 12:56:41 +0000";
+lastChange = "2021-05-25 11:03:50 +0000";
 layers = (
 {
 anchors = (
@@ -11381,16 +11261,6 @@ nodes = (
 width = 1004;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{504, 0}";
-},
-{
-name = top;
-position = "{504, 750}";
-}
-);
 background = {
 anchors = (
 {
@@ -11571,16 +11441,6 @@ nodes = (
 width = 999;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{532, 0}";
-},
-{
-name = top;
-position = "{532, 750}";
-}
-);
 background = {
 components = (
 {
@@ -16046,23 +15906,9 @@ unicode = 016A;
 {
 color = 6;
 glyphname = Uogonek;
-lastChange = "2021-05-15 14:41:05 +0000";
+lastChange = "2021-05-25 11:08:32 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{515, 0}";
-},
-{
-name = top;
-position = "{515, 750}";
-},
-{
-name = topright;
-position = "{954, 750}";
-}
-);
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
 paths = (
 {
@@ -16255,20 +16101,6 @@ nodes = (
 width = 1020;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{500, 0}";
-},
-{
-name = top;
-position = "{500, 750}";
-},
-{
-name = topright;
-position = "{977, 750}";
-}
-);
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
 name = Regular;
 paths = (
@@ -19436,19 +19268,9 @@ unicode = 0101;
 {
 color = 6;
 glyphname = aogonek;
-lastChange = "2021-05-14 09:16:16 +0000";
+lastChange = "2021-05-25 11:07:14 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{390, 0}";
-},
-{
-name = top;
-position = "{390, 620}";
-}
-);
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
 paths = (
 {
@@ -19705,16 +19527,6 @@ nodes = (
 width = 873;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{427, 0}";
-},
-{
-name = top;
-position = "{427, 620}";
-}
-);
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
 name = Regular;
 paths = (
@@ -20212,7 +20024,7 @@ unicode = 00E3;
 {
 color = 6;
 glyphname = ae;
-lastChange = "2021-04-27 11:22:41 +0000";
+lastChange = "2021-05-25 11:02:13 +0000";
 layers = (
 {
 anchors = (
@@ -20260,6 +20072,11 @@ nodes = (
 }
 );
 };
+guideLines = (
+{
+position = "{928, -30}";
+}
+);
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
 paths = (
 {
@@ -20316,8 +20133,8 @@ nodes = (
 "123 336 OFFCURVE",
 "3 283 OFFCURVE",
 "3 158 CURVE SMOOTH",
-"3 -35 OFFCURVE",
-"364 -61 OFFCURVE",
+"3 -41 OFFCURVE",
+"365 -76 OFFCURVE",
 "483 23 CURVE"
 );
 },
@@ -20434,6 +20251,136 @@ nodes = (
 }
 );
 width = 1350;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{682, 0}";
+},
+{
+name = top;
+position = "{682, 620}";
+}
+);
+associatedMasterId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
+background = {
+components = (
+{
+name = e;
+transform = "{1, 0, 0, 1, 468, 0}";
+},
+{
+name = a;
+transform = "{1, 0, 0, 1, -4, 0}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"483 275 LINE",
+"449 200 OFFCURVE",
+"326 231 OFFCURVE",
+"326 266 CURVE SMOOTH",
+"326 294 OFFCURVE",
+"351 307 OFFCURVE",
+"426 307 CURVE SMOOTH",
+"512 307 LINE",
+"493 336 LINE",
+"274 336 LINE SMOOTH",
+"123 336 OFFCURVE",
+"3 283 OFFCURVE",
+"3 158 CURVE SMOOTH",
+"3 -35 OFFCURVE",
+"364 -61 OFFCURVE",
+"483 23 CURVE"
+);
+}
+);
+};
+layerId = "609834C0-EEDD-493A-A7F4-1C3AA01877C8";
+name = "25 May 21, 13:00";
+paths = (
+{
+closed = 1;
+nodes = (
+"1123 -30 OFFCURVE",
+"1316 69 OFFCURVE",
+"1351 196 CURVE",
+"1042 297 LINE",
+"1040 258 OFFCURVE",
+"995 233 OFFCURVE",
+"930 233 CURVE SMOOTH",
+"862 233 OFFCURVE",
+"815 260 OFFCURVE",
+"814 296 CURVE SMOOTH",
+"814 297 OFFCURVE",
+"814 297 OFFCURVE",
+"815 297 CURVE SMOOTH",
+"1360 297 LINE",
+"1360 535 OFFCURVE",
+"1179 650 OFFCURVE",
+"928 650 CURVE SMOOTH",
+"829 650 OFFCURVE",
+"732 630 OFFCURVE",
+"653 581 CURVE",
+"506 674 OFFCURVE",
+"255 671 OFFCURVE",
+"65 584 CURVE",
+"65 331 LINE",
+"132 377 OFFCURVE",
+"221 401 OFFCURVE",
+"299 401 CURVE SMOOTH",
+"398 401 OFFCURVE",
+"466 363 OFFCURVE",
+"478 310 CURVE",
+"478 83 OFFCURVE",
+"678 -30 OFFCURVE",
+"928 -30 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"483 275 LINE",
+"449 200 OFFCURVE",
+"326 214 OFFCURVE",
+"326 266 CURVE SMOOTH",
+"326 294 OFFCURVE",
+"351 307 OFFCURVE",
+"413 307 CURVE SMOOTH",
+"512 307 LINE",
+"493 336 LINE",
+"274 336 LINE SMOOTH",
+"123 336 OFFCURVE",
+"3 283 OFFCURVE",
+"3 158 CURVE SMOOTH",
+"3 -35 OFFCURVE",
+"364 -61 OFFCURVE",
+"483 23 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"815 326 OFFCURVE",
+"815 326 OFFCURVE",
+"815 328 CURVE SMOOTH",
+"815 367 OFFCURVE",
+"868 390 OFFCURVE",
+"928 390 CURVE SMOOTH",
+"987 390 OFFCURVE",
+"1040 367 OFFCURVE",
+"1040 328 CURVE SMOOTH",
+"1040 327 OFFCURVE",
+"1040 326 OFFCURVE",
+"1039 326 CURVE SMOOTH",
+"816 326 LINE SMOOTH"
+);
+}
+);
+width = 1368;
 }
 );
 leftKerningGroup = a;
@@ -21733,27 +21680,9 @@ unicode = 010F;
 {
 color = 3;
 glyphname = dcroat;
-lastChange = "2021-05-17 13:15:15 +0000";
+lastChange = "2021-05-25 10:51:23 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{480, 0}";
-},
-{
-name = center;
-position = "{480, 310}";
-},
-{
-name = top;
-position = "{480, 750}";
-},
-{
-name = topright;
-position = "{935, 620}";
-}
-);
 background = {
 components = (
 {
@@ -21781,24 +21710,6 @@ nodes = (
 width = 1001;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{485, 0}";
-},
-{
-name = center;
-position = "{485, 310}";
-},
-{
-name = top;
-position = "{485, 750}";
-},
-{
-name = topright;
-position = "{950, 620}";
-}
-);
 components = (
 {
 name = d;
@@ -22644,19 +22555,9 @@ unicode = 0113;
 {
 color = 6;
 glyphname = eogonek;
-lastChange = "2021-05-14 10:22:38 +0000";
+lastChange = "2021-05-25 11:07:23 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{439, 0}";
-},
-{
-name = top;
-position = "{439, 620}";
-}
-);
 background = {
 anchors = (
 {
@@ -22893,16 +22794,6 @@ nodes = (
 width = 900;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{450, 0}";
-},
-{
-name = top;
-position = "{450, 620}";
-}
-);
 background = {
 components = (
 {
@@ -26533,19 +26424,9 @@ unicode = 0137;
 {
 color = 6;
 glyphname = kgreenlandic;
-lastChange = "2021-05-25 10:28:40 +0000";
+lastChange = "2021-05-25 10:52:47 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{448, 0}";
-},
-{
-name = top;
-position = "{448, 750}";
-}
-);
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
 paths = (
 {
@@ -26599,16 +26480,6 @@ nodes = (
 width = 896;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{433, 0}";
-},
-{
-name = top;
-position = "{433, 750}";
-}
-);
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
 paths = (
 {
@@ -29000,27 +28871,9 @@ unicode = 014D;
 {
 color = 6;
 glyphname = oogonek;
-lastChange = "2021-05-14 12:38:58 +0000";
+lastChange = "2021-05-25 11:08:59 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{452, 0}";
-},
-{
-name = center;
-position = "{452, 310}";
-},
-{
-name = top;
-position = "{452, 620}";
-},
-{
-name = topright;
-position = "{892, 620}";
-}
-);
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
 paths = (
 {
@@ -29080,24 +28933,6 @@ nodes = (
 width = 915;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{460, 0}";
-},
-{
-name = center;
-position = "{460, 310}";
-},
-{
-name = top;
-position = "{460, 620}";
-},
-{
-name = topright;
-position = "{900, 620}";
-}
-);
 background = {
 anchors = (
 {
@@ -29729,7 +29564,7 @@ unicode = 00F5;
 {
 color = 6;
 glyphname = oe;
-lastChange = "2021-05-14 12:44:45 +0000";
+lastChange = "2021-05-25 10:55:14 +0000";
 layers = (
 {
 anchors = (
@@ -33668,19 +33503,9 @@ unicode = 016B;
 {
 color = 6;
 glyphname = uogonek;
-lastChange = "2021-05-14 14:14:32 +0000";
+lastChange = "2021-05-25 11:08:41 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{418, 0}";
-},
-{
-name = top;
-position = "{418, 620}";
-}
-);
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
 paths = (
 {
@@ -33752,16 +33577,6 @@ nodes = (
 width = 826;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{418, 0}";
-},
-{
-name = top;
-position = "{418, 620}";
-}
-);
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
 name = Regular;
 paths = (
