@@ -57899,7 +57899,6 @@ kerning = {
 "@MMK_R_y" = -120;
 Eth = -30;
 Hbar = -30;
-Q = -80;
 };
 "@MMK_L_B" = {
 "@MMK_R_A" = -30;
@@ -58258,7 +58257,6 @@ fraction = {
 "@MMK_R_v" = -60;
 "@MMK_R_w" = -50;
 "@MMK_R_y" = -60;
-Hbar = -20;
 };
 "@MMK_L_B" = {
 "@MMK_R_A" = -10;
