@@ -1893,7 +1893,7 @@ unicode = 00C3;
 {
 color = 6;
 glyphname = AE;
-lastChange = "2021-05-27 09:30:09 +0000";
+lastChange = "2021-05-27 09:42:57 +0000";
 layers = (
 {
 anchors = (
@@ -2197,7 +2197,7 @@ nodes = (
 width = 1470;
 }
 );
-leftKerningGroup = AE;
+leftKerningGroup = A;
 rightKerningGroup = E;
 unicode = 00C6;
 },
