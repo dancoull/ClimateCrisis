@@ -4462,7 +4462,7 @@ unicode = 0112;
 {
 color = 6;
 glyphname = Eogonek;
-lastChange = "2021-05-25 11:06:36 +0000";
+lastChange = "2021-06-24 09:11:58 +0000";
 layers = (
 {
 layerId = "96858A69-C8A6-410B-90BB-94EA0DA45935";
@@ -4562,8 +4562,8 @@ nodes = (
 "425 494 OFFCURVE",
 "425 494 OFFCURVE",
 "426 494 CURVE",
-"861 494 LINE",
-"861 750 LINE",
+"863 494 LINE",
+"863 750 LINE",
 "20 750 LINE",
 "20 697 OFFCURVE",
 "20 645 OFFCURVE",
@@ -4581,7 +4581,7 @@ nodes = (
 );
 }
 );
-width = 879;
+width = 883;
 },
 {
 anchors = (
