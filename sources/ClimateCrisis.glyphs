@@ -31776,7 +31776,7 @@ color = 10;
 glyphname = igrave;
 kernLeft = i;
 kernRight = i;
-lastChange = "2021-09-01 14:59:58 +0000";
+lastChange = "2021-09-01 16:15:59 +0000";
 layers = (
 {
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -31848,7 +31848,7 @@ color = 10;
 glyphname = imacron;
 kernLeft = i;
 kernRight = i;
-lastChange = "2021-09-01 14:53:12 +0000";
+lastChange = "2021-09-01 16:15:59 +0000";
 layers = (
 {
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -53916,7 +53916,7 @@ color = 6;
 glyphname = exclam;
 kernLeft = exclam;
 kernRight = exclam;
-lastChange = "2021-08-20 13:35:20 +0000";
+lastChange = "2021-09-01 16:15:49 +0000";
 layers = (
 {
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -70537,6 +70537,7 @@ idotaccent = 30;
 imacron = 50;
 itilde = 60;
 jcircumflex = 130;
+exclam = 40;
 };
 "@MMK_L_five" = {
 "@MMK_R_A" = -50;
@@ -71187,6 +71188,7 @@ periodcentered.loclCAT.case = -70;
 "@MMK_R_v" = -10;
 "@MMK_R_w" = -10;
 "@MMK_R_y" = -10;
+adieresis = -5;
 braceright = 10;
 bracketright = 10;
 hbar = 40;
@@ -71197,7 +71199,7 @@ idotaccent = -20;
 imacron = -20;
 itilde = -10;
 jcircumflex = -20;
-adieresis = -5;
+exclam = -40;
 };
 "@MMK_L_five" = {
 "@MMK_R_A" = -20;
