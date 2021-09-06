@@ -7,7 +7,7 @@
       - wdth
     familyName: Climate Crisis
     stat:
-      ClimateCrisis[year].ttf:
+      ClimateCrisis[YEAR].ttf:
       - name: Year
         tag: YEAR
         values:
