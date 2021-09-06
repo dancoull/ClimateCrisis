@@ -5,16 +5,6 @@ axes = (
 {
 name = Year;
 tag = YEAR;
-},
-{
-hidden = 1;
-name = Weight;
-tag = wght;
-},
-{
-hidden = 1;
-name = Width;
-tag = wdth;
 }
 );
 classes = (
@@ -287,9 +277,7 @@ tag = liga;
 fontMaster = (
 {
 axesValues = (
-1979,
-0,
-0
+1979
 );
 customParameters = (
 {
@@ -368,9 +356,7 @@ visible = 1;
 },
 {
 axesValues = (
-2050,
-0,
-0
+2050
 );
 customParameters = (
 {
@@ -33534,7 +33520,7 @@ color = 10;
 glyphname = igrave;
 kernLeft = i;
 kernRight = i;
-lastChange = "2021-09-06 07:58:34 +0000";
+lastChange = "2021-09-06 08:38:27 +0000";
 layers = (
 {
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -33606,7 +33592,7 @@ color = 10;
 glyphname = imacron;
 kernLeft = i;
 kernRight = i;
-lastChange = "2021-09-06 07:58:34 +0000";
+lastChange = "2021-09-06 08:38:27 +0000";
 layers = (
 {
 layerId = "F6D8640C-383C-48A8-B63C-DDE9F10207CE";
@@ -72325,9 +72311,7 @@ width = 328;
 instances = (
 {
 axesValues = (
-1979,
-0,
-0
+1979
 );
 instanceInterpolations = {
 "F6D8640C-383C-48A8-B63C-DDE9F10207CE" = 1;
@@ -72347,9 +72331,7 @@ value = "Climate Crisis 1979";
 },
 {
 axesValues = (
-1994,
-0,
-0
+1994
 );
 instanceInterpolations = {
 "96858A69-C8A6-410B-90BB-94EA0DA45935" = 0.21127;
@@ -72370,9 +72352,7 @@ value = "Climate Crisis 1990";
 },
 {
 axesValues = (
-1992,
-0,
-0
+1992
 );
 instanceInterpolations = {
 "96858A69-C8A6-410B-90BB-94EA0DA45935" = 0.1831;
@@ -72393,9 +72373,7 @@ value = "Climate Crisis 2000";
 },
 {
 axesValues = (
-2012,
-0,
-0
+2012
 );
 instanceInterpolations = {
 "96858A69-C8A6-410B-90BB-94EA0DA45935" = 0.46479;
@@ -72416,9 +72394,7 @@ value = "Climate Crisis 2010";
 },
 {
 axesValues = (
-2019,
-0,
-0
+2019
 );
 instanceInterpolations = {
 "96858A69-C8A6-410B-90BB-94EA0DA45935" = 0.56338;
@@ -72439,9 +72415,7 @@ value = "Climate Crisis 2019";
 },
 {
 axesValues = (
-2028,
-0,
-0
+2028
 );
 instanceInterpolations = {
 "96858A69-C8A6-410B-90BB-94EA0DA45935" = 0.69014;
@@ -72462,9 +72436,7 @@ value = "Climate Crisis 2030";
 },
 {
 axesValues = (
-2040,
-0,
-0
+2040
 );
 instanceInterpolations = {
 "96858A69-C8A6-410B-90BB-94EA0DA45935" = 0.85915;
@@ -72485,9 +72457,7 @@ value = "Climate Crisis 2040";
 },
 {
 axesValues = (
-2050,
-0,
-0
+2050
 );
 instanceInterpolations = {
 "96858A69-C8A6-410B-90BB-94EA0DA45935" = 1;
