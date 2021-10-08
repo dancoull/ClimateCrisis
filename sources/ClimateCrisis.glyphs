@@ -1,5 +1,5 @@
 {
-.appVersion = "3098";
+.appVersion = "3099";
 classes = (
 {
 automatic = 1;
@@ -15,7 +15,7 @@ value = {
 YEAR = {
 1979 = 1979;
 1990 = 1994;
-2000 = 1992;
+2000 = 2003;
 2010 = 2012;
 2019 = 2019;
 2030 = 2028;
@@ -36437,10 +36437,10 @@ name = familyName;
 value = "Climate Crisis 2000";
 }
 );
-interpolationWeight = 1992;
+interpolationWeight = 2003;
 instanceInterpolations = {
-"96858A69-C8A6-410B-90BB-94EA0DA45935" = 0.1831;
-"F6D8640C-383C-48A8-B63C-DDE9F10207CE" = 0.8169;
+"96858A69-C8A6-410B-90BB-94EA0DA45935" = 0.33803;
+"F6D8640C-383C-48A8-B63C-DDE9F10207CE" = 0.66197;
 };
 name = Regular;
 },
