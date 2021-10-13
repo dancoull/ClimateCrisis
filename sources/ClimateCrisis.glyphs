@@ -36404,6 +36404,13 @@ width = 328;
 );
 instances = (
 {
+interpolationWeight = 1979;
+instanceInterpolations = {
+"F6D8640C-383C-48A8-B63C-DDE9F10207CE" = 1;
+};
+name = Regular;
+},
+{
 customParameters = (
 {
 name = familyName;
