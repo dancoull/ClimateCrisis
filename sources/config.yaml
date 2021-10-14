@@ -3,9 +3,7 @@
     buildOTF: False
     axisOrder:
       - YEAR
-      - wght
-      - wdth
-    familyName: Climate Crisis
+    familyName: "Climate Crisis"
     stat:
       ClimateCrisis[YEAR].ttf:
       - name: Year
