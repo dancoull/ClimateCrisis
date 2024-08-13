@@ -13,4 +13,4 @@ Climate Crisis is licensed under SIL Open Font License V1.1, read [here](https:/
 ## Contributions
 If you would like to contribute to the project with ideas or feedback, contact hello@danielcoull.com.
 
-Designed by Eino Korkala & Daniel Coull.
+Designed by Eino Korkala, Daniel Coull, Eunyou Noh & Joohee Lee.
