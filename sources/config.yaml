@@ -4,6 +4,7 @@ buildOTF: False
 axisOrder:
   - YEAR
 familyName: "Climate Crisis"
+cleanUp: true
 stat:
   - name: Year
     tag: YEAR
@@ -24,3 +25,32 @@ stat:
       value: 2040
     - name: 2050
       value: 2050
+fvarInstances:
+  ClimateCrisis[YEAR].ttf:
+    - name: "Regular"
+      coordinates:
+        YEAR: 1979
+    - name: "1979"
+      coordinates:
+        YEAR: 1979
+    - name: "1990"
+      coordinates:
+        YEAR: 1990
+    - name: "2000"
+      coordinates:
+        YEAR: 2000
+    - name: "2010"
+      coordinates:
+        YEAR: 2012
+    - name: "2019"
+      coordinates:
+        YEAR: 2019
+    - name: "2030"
+      coordinates:
+        YEAR: 2028
+    - name: "2040"
+      coordinates:
+        YEAR: 2040
+    - name: "2050"
+      coordinates:
+        YEAR: 2050
